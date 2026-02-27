@@ -1,4 +1,9 @@
 # Air Quality Analytics Tier-1 Cities
+
+## 📸 Dashboard Preview
+![](images/AQI_Project.png)
+
+
 Power BI dashboard analyzing AQI trends (2018–2024) using star schema modeling, DAX time intelligence, and KPI reporting.
 
 The goal is to uncover:
@@ -61,12 +66,4 @@ This analysis can support:
 - Public health awareness initiatives
 - Government pollution control strategies
 
-## 📸 Dashboard Preview
-![](images/AQI_Project.png)
 
-### 👨‍💻 About the Project
-This project demonstrates:
-- Strong data cleaning skills
-- Data modeling & relationship handling
-- Time intelligence DAX expertise
-- Insight storytelling using visualization
