@@ -13,28 +13,28 @@ The goal is to uncover:
 
 This dashboard transforms raw environmental data into actionable insights for policy evaluation and urban planning.
 
-🎯 Objectives
+### 🎯 Objectives
 - Identify the most polluted Tier-1 cities
 - Analyze AQI trend progression (2018–2024)
 - Detect seasonal pollution spikes
 - Measure Year-over-Year % changes
 - Compare cities using dynamic visuals
 
-🗂 Dataset
+### 🗂 Dataset
 
 - Source: CPCB / Open-source AQI datasets
 - Time Period: 2018–2024
 - Granularity: Daily observations
 - Focus Metric: AQI & PM2.5
 
-🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 
 - Power BI
 - DAX (Time Intelligence, YoY, MTD)
 - Data Modeling
 - Power Query (Data Cleaning & Transformation)
 
-📊 Key Dashboard Features
+### 📊 Key Dashboard Features
 
 - AQI Trend Analysis (Line Charts)
 - Year-over-Year % Change Indicator
@@ -47,24 +47,24 @@ This dashboard transforms raw environmental data into actionable insights for po
 
 - Seasonal Variation Insights
 
-🔍 Key Insights
+### 🔍 Key Insights
 
 - Certain cities show consistent YoY improvement.
 - Post-2020 trends reveal structural changes in pollution levels.
 - Winter months show significant AQI spikes across all major cities.
 - PM2.5 strongly correlates with overall AQI variation.
 
-🚀 Business Relevance
+### 🚀 Business Relevance
 This analysis can support:
 - Environmental policy evaluation
 - Urban sustainability planning
 - Public health awareness initiatives
 - Government pollution control strategies
 
-📸 Dashboard Preview
-![](images/dashboard-overview.png)
+## 📸 Dashboard Preview
+![](images/AQI_Project.png)
 
-👨‍💻 About the Project
+### 👨‍💻 About the Project
 This project demonstrates:
 - Strong data cleaning skills
 - Data modeling & relationship handling
