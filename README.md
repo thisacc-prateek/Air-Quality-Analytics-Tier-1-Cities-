@@ -4,8 +4,7 @@
 ![](images/AQI_Project.png)
 
 ## 📊 Data Model
-![]()
-
+![](images/Data_Model.png))
 
 
 Power BI dashboard analyzing AQI trends (2018–2024) using star schema modeling, DAX time intelligence, and KPI reporting.
